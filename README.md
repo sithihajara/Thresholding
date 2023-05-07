@@ -103,8 +103,7 @@ cv2.destroyAllWindows()
 ![Screenshot 2023-04-29 114836](https://user-images.githubusercontent.com/94219582/236668709-4afc9bff-ff73-4b2e-9f61-1909b5879ab5.png)
 
 ### Global Thresholding
-![Uploading Screenshot 2023-04-29 115038.png…]()
-
+![Screenshot 2023-04-29 115038](https://user-images.githubusercontent.com/94219582/236669049-61ea7539-3006-48b8-ab4e-43d21c7fc253.png)
 ### Adaptive Thresholding
 ![Screenshot 2023-04-29 125701](https://user-images.githubusercontent.com/94219582/236668777-f99a0b59-80c7-41bf-af95-8e652de114e8.png)
 
