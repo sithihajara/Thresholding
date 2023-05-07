@@ -104,13 +104,14 @@ cv2.destroyAllWindows()
 
 ### Global Thresholding
 ![Screenshot 2023-04-29 115038](https://user-images.githubusercontent.com/94219582/236669049-61ea7539-3006-48b8-ab4e-43d21c7fc253.png)
-### Adaptive Thresholding
-![Screenshot 2023-04-29 125701](https://user-images.githubusercontent.com/94219582/236668777-f99a0b59-80c7-41bf-af95-8e652de114e8.png)
+![Screenshot 2023-05-07 145511](https://user-images.githubusercontent.com/94219582/236669641-3ffdfca6-5f53-4607-a945-62fe191586b9.png)
 
+### Adaptive Thresholding
+![image](https://user-images.githubusercontent.com/94219582/236669600-5242ba5b-9da1-486a-a7d5-f8c3e8be8c1a.png)
+![image](https://user-images.githubusercontent.com/94219582/236669624-4126aea3-25a5-4eaa-b56b-d29434186485.png)
 
 ### Optimum Global Thesholding using Otsu's Method
 ![image](https://user-images.githubusercontent.com/94219582/236668932-278308e0-ba68-4b77-a98d-a5aea30b8c2e.png)
-
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
