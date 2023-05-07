@@ -107,8 +107,9 @@ cv2.destroyAllWindows()
 ![Screenshot 2023-05-07 145511](https://user-images.githubusercontent.com/94219582/236669641-3ffdfca6-5f53-4607-a945-62fe191586b9.png)
 
 ### Adaptive Thresholding
-![image](https://user-images.githubusercontent.com/94219582/236669600-5242ba5b-9da1-486a-a7d5-f8c3e8be8c1a.png)
-![image](https://user-images.githubusercontent.com/94219582/236669624-4126aea3-25a5-4eaa-b56b-d29434186485.png)
+![Screenshot 2023-05-07 150424](https://user-images.githubusercontent.com/94219582/236669825-da6f39f5-fa3b-4b8f-9241-7fcdf9fe790c.png)
+
+![Screenshot 2023-05-07 150516](https://user-images.githubusercontent.com/94219582/236669836-bf13d75c-627f-4863-9278-2d71d527ce65.png)
 
 ### Optimum Global Thesholding using Otsu's Method
 ![image](https://user-images.githubusercontent.com/94219582/236668932-278308e0-ba68-4b77-a98d-a5aea30b8c2e.png)
