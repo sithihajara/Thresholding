@@ -32,7 +32,7 @@ Display the results.
 #Developed by: Sithi Hajara I
 #Register no: 21221230102
 ```
-```
+
 # Load the necessary packages
 ```
 import cv2
